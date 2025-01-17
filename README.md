@@ -21,9 +21,10 @@ Below you can find more information about me, my skills, and my projects.
 
 Here are a few projects I've worked on:
 
-- [Project 1](https://github.com/smaierhofer/project1): Brief description of what this project does and the technologies used.
-- [Project 2](https://github.com/smaierhofer/project2): Brief description of what this project does and the technologies used.
-- [Project 3](https://github.com/smaierhofer/project3): Brief description of what this project does and the technologies used.
+- [CommonRoad-IO](https://github.com/smaierhofer/project1): Brief description of what this project does and the technologies used.
+- [CommonRoad Scenario Designer](https://github.com/smaierhofer/project2): Brief description of what this project does and the technologies used.
+- [CommonRoad CARLA-Interface](https://github.com/smaierhofer/project3): Brief description of what this project does and the technologies used.
+- [CommonRoad Prediction](https://github.com/smaierhofer/project3): Brief description of what this project does and the technologies used.
 -->
 ## GitHub Stats
 
