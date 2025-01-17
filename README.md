@@ -14,18 +14,22 @@ Below you can find more information about me, my skills, and my projects.
 ## Skills
 
 - **Languages:** C++, Python
-- **Frameworks/Libraries:** CMake, CommonRoad, ROS, scikit-build-core, nanobind, antlr4
+- **Frameworks/Libraries:** CMake, CommonRoad, scikit-build-core, nanobind, antlr4
 - **Tools:** Git, Docker, PyCharm, CLion, VS Code
-<!--
+
 ## Projects
 
 Here are a few projects I've worked on:
 
-- [CommonRoad-IO](https://github.com/smaierhofer/project1): Brief description of what this project does and the technologies used.
-- [CommonRoad Scenario Designer](https://github.com/smaierhofer/project2): Brief description of what this project does and the technologies used.
-- [CommonRoad CARLA-Interface](https://github.com/smaierhofer/project3): Brief description of what this project does and the technologies used.
-- [CommonRoad Prediction](https://github.com/smaierhofer/project3): Brief description of what this project does and the technologies used.
--->
+- [CommonRoad-IO](https://github.com/CommonRoad/commonroad-scenario-designer): Tool to read, write, and visualize CommonRoad scenarios and base for other tools from the CommonRoad framework. 
+- [CommonRoad Scenario Designer](https://github.com/CommonRoad/commonroad-scenario-designer): Toolbox for Map Conversion and Scenario Creation for Autonomous Vehicles. 
+- [CommonRoad CARLA-Interface](https://github.com/CommonRoad/commonroad-carla-interface): Interface between CommonRoad and the traffic simulator CARLA. 
+- [CommonRoad Prediction](https://github.com/CommonRoad/commonroad-prediction): A collection and interface for CommonRoad prediction algorithms.
+- [CommonRoad-all](https://github.com/CommonRoad/commonroad-all): Meta-package which automatically installs all CommonRoad tools currently released on PyPi.
+- [CommonRoad Reactive Planner](https://github.com/CommonRoad/commonroad-reactive-planner): A sampling-based motion planner for autonomous vehicles using quintic polynomials in a Frenet frame.
+- [Safe ACC](https://github.com/CommonRoad/safe-acc): Provably-correct and comfortable adaptive cruise control.
+- [ACC Falsification](https://github.com/CommonRoad/safety-falsification-acc): Computationally efficient safety falsification of adaptive cruise control systems.
+
 ## GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=smaierhofer&show_icons=true&theme=radical)
