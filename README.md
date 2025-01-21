@@ -29,6 +29,7 @@ Here are a few projects I've worked on:
 - [CommonRoad Reactive Planner](https://github.com/CommonRoad/commonroad-reactive-planner): A sampling-based motion planner for autonomous vehicles using quintic polynomials in a Frenet frame.
 - [Safe ACC](https://github.com/CommonRoad/safe-acc): Provably-correct and comfortable adaptive cruise control.
 - [ACC Falsification](https://github.com/CommonRoad/safety-falsification-acc): Computationally efficient safety falsification of adaptive cruise control systems.
+- [CommonRoad Dataset Converter](https://commonroad.in.tum.de/tools/dataset-converters): Tool to convert popular datasets to the CommonRoad format.
 
 ## GitHub Stats
 
@@ -43,11 +44,3 @@ You can find me on:
 - [Google Scholar](https://scholar.google.de/citations?user=hkgRdzEAAAAJ&hl=de)
 
 I'm always open to connecting with new people and exploring exciting opportunities. Feel free to reach out!
-
-
-<!--
-**smaierhofer/smaierhofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=smaierhofer&show_icons=true&theme=gotham" alt="smaierhofer" />
--->
