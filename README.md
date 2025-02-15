@@ -24,7 +24,7 @@ Here are a few projects I've worked on:
 - [CommonRoad-IO](https://github.com/CommonRoad/commonroad-scenario-designer): Tool to read, write, and visualize CommonRoad scenarios and base for other tools from the CommonRoad framework. 
 - [CommonRoad Scenario Designer](https://github.com/CommonRoad/commonroad-scenario-designer): Toolbox for Map Conversion and Scenario Creation for Autonomous Vehicles. 
 - [CommonRoad CARLA-Interface](https://github.com/CommonRoad/commonroad-carla-interface): Interface between CommonRoad and the traffic simulator CARLA. 
-- [CommonRoad Prediction](https://github.com/CommonRoad/commonroad-prediction): A collection and interface for CommonRoad prediction algorithms.
+- [CommonRoad Prediction](https://github.com/CommonRoad/commonroad-prediction): A collection and interface for prediction algorithms.
 - [CommonRoad-all](https://github.com/CommonRoad/commonroad-all): Meta-package which automatically installs all CommonRoad tools currently released on PyPi.
 - [CommonRoad Reactive Planner](https://github.com/CommonRoad/commonroad-reactive-planner): A sampling-based motion planner for autonomous vehicles using quintic polynomials in a Frenet frame.
 - [Safe ACC](https://github.com/CommonRoad/safe-acc): Provably-correct and comfortable adaptive cruise control.
