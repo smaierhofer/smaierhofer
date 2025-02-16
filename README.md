@@ -14,7 +14,7 @@ Below you can find more information about me, my skills, and my projects.
 ## Skills
 
 - **Languages:** C++, Python
-- **Frameworks/Libraries:** CommonRoad, scikit-build-core, nanobind, antlr4, ruff
+- **Frameworks/Libraries:** scikit-build-core, nanobind, antlr4, CommonRoad, ruff
 - **Tools:** Git, Docker, CMake, PyCharm, CLion, VS Code, poetry, Ansible
 
 ## Projects
