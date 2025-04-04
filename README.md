@@ -30,6 +30,8 @@ Here are a few projects I've worked on:
 - [Safe ACC](https://github.com/CommonRoad/safe-acc): Provably-correct and comfortable adaptive cruise control.
 - [ACC Falsification](https://github.com/CommonRoad/safety-falsification-acc): Computationally efficient safety falsification of adaptive cruise control systems.
 - [CommonRoad Dataset Converter](https://commonroad.in.tum.de/tools/dataset-converters): Tool to convert popular datasets to the CommonRoad format.
+- [CommonRoad Docker]([https://commonroad.in.tum.de/tools/dataset-converters](https://gitlab.lrz.de/tum-cps/commonroad-docker)): Collection of Docker files for CI images used in CommonRoad repositories with pipeline to build containers.
+- [CommonRoad CMake]([gitlab.lrz.de/tum-cps/commonroad-cmake)): Collection of CMake files for CommonRoad repositories.
 
 ## GitHub Stats
 
