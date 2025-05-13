@@ -32,6 +32,7 @@ Here are a few projects I've worked on:
 - [CommonRoad Dataset Converter](https://commonroad.in.tum.de/tools/dataset-converters): Tool to convert popular datasets to the CommonRoad format.
 - [CommonRoad Docker](https://gitlab.lrz.de/tum-cps/commonroad-docker): Collection of Docker files for CI images used in CommonRoad repositories with pipeline to build containers.
 - [CommonRoad CMake](https://gitlab.lrz.de/tum-cps/commonroad-cmake): Collection of CMake files for CommonRoad repositories.
+- [No More Traffic Tickets](https://github.com/CommonRoad/no-more-traffic-tickets): Evaluation scripts for the paper "No More Traffic Tickets: A Tutorial to Ensure Traffic-Rule Compliance of Automated Vehicles".
 
 ## GitHub Stats
 
