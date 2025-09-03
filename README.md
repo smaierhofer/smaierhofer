@@ -21,7 +21,8 @@ Below you can find more information about me, my skills, and my projects.
 
 Here are a few projects I've worked on:
 
-- [CommonRoad-IO](https://github.com/CommonRoad/commonroad-scenario-designer): Tool to read, write, and visualize CommonRoad scenarios and base for other tools from the CommonRoad framework. 
+- [CommonRoad-IO](https://github.com/CommonRoad/commonroad-scenario-designer): Tool to read, write, and visualize CommonRoad scenarios and base for other tools from the CommonRoad framework.
+- [Environment-Model](https://github.com/CommonRoad/environment-model): C++ representation of CommonRoad scenarios with a Python interface. 
 - [CommonRoad Scenario Designer](https://github.com/CommonRoad/commonroad-scenario-designer): Toolbox for Map Conversion and Scenario Creation for Autonomous Vehicles. 
 - [CommonRoad CARLA-Interface](https://github.com/CommonRoad/commonroad-carla-interface): Interface between CommonRoad and the traffic simulator CARLA. 
 - [CommonRoad Prediction](https://github.com/CommonRoad/commonroad-prediction): A collection and interface for prediction algorithms.
