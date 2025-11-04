@@ -14,8 +14,8 @@ Below you can find more information about me, my skills, and my projects.
 ## Skills
 
 - **Languages:** C++, Python
-- **Frameworks/Libraries:** scikit-build-core, nanobind, antlr4, CommonRoad, ruff, numpy, pandas, streamlit, pyqt5/pyqt6, pytest, gtest, Boost, spdlog, ROS
-- **Tools:** Git, CI/CD (Github and Gitlab), Docker, CMake, PyCharm, CLion, VS Code, poetry, uv, mkdocs, Ansible, Clang, Gazebo, CARLA
+- **Frameworks/Libraries:** scikit-build-core, nanobind, antlr4, CommonRoad, numpy, pandas, streamlit, pyqt5/pyqt6, pytest, gtest, Boost, spdlog, ROS
+- **Tools:** Git, CI/CD (Github and Gitlab), Docker, CMake, PyCharm, CLion, VS Code, poetry, uv, mkdocs, Ansible, ruff, Clang, Gazebo, CARLA
 
 ## Projects
 
